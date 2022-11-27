@@ -10,4 +10,4 @@ description: home
 
 *a good and creative quote to be added in the future*
 
-[test](/test "test") | [about](/about "about") | [not rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ "NOT RICKROLL") | [contact](/contact "contat")
+[test](/test "test") | [about](/about "about") | [not rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ "NOT RICKROLL") | [contact](/contact "contact")
