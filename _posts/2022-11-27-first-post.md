@@ -5,6 +5,7 @@ date:   2022-11-27 9:24:30 -0500
 ---
 
 # first post
+
 woah first post
 
 that's crazy am i right?
@@ -16,8 +17,10 @@ that's crazy am i right?
 - a
 - list
 
-~~strikethrough~~
+~~strikethrough~~ **bold** *italic*
 
 [totally, 100% not a rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ, "NOT RICKROLL")
 
 `code block`
+
+> block quote
