@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "test"
+description: "test"
 permalink: /test
 ---
 # this is a test
