@@ -19,4 +19,6 @@ permalink: /test
 - a
 - list
 
-**bold** *italic*
+**bold** *italic* ~~strikethrough~~
+
+useless page
