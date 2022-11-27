@@ -6,7 +6,7 @@ layout: home
 description: home
 ---
 
-# anchovy's website
+# home
 
 *a good and creative quote to be added in the future*
 
