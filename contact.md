@@ -1,6 +1,7 @@
 ---
-description: contact
+layout: page
 permalink: /contact
+description: contact
 ---
 
 # no.
