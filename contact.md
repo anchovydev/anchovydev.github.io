@@ -4,6 +4,6 @@ permalink: /contact
 description: contact
 ---
 
-# no.
+no.
 
 i'm not giving you my email
