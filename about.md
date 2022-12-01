@@ -4,6 +4,8 @@ description: about
 permalink: /about
 ---
 
+# about
+
 this is a website
 
 made by myself
