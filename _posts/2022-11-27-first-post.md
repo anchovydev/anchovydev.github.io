@@ -24,3 +24,13 @@ that's crazy am i right?
 `code block`
 
 > block quote
+> with another line
+
+this is a sentence with a footnote[^1]
+
+[^1]: this is the footnote 
+  it has multiple lines
+
+e
+
+😼
