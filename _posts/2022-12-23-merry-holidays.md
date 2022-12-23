@@ -44,7 +44,7 @@ i had lots of fun, but nothing was scary. everest was fun tho.
 
 on the return trip i sat a sports bar. 13 years old and i already sat a bar. yeah, i'm 13 now. no longer breaking discord tos. my birthday was the 9th.
 
-arentina w moment.
+argentina w moment.
 
 ## math stuff
 
@@ -64,7 +64,7 @@ i should've actually prepared. should've signed up for b.
 
 oh well, who cares, this season's gone, time to prepare for next year. also i got first for mc in school. very epik.
 
-also, i will be at cmimc 2023! i can't believe this is happening. i will be with spectator, rft, megarnie, streak, plang2008, and another dude who doesn't want his information dropped
+also, i will be at cmimc 2023! i can't believe this is happening! i was invited to a math competition! i will be with spectator, rft, megarnie, streak, plang2008, and another dude who doesn't want his information dropped
 
 time to get carried
 
