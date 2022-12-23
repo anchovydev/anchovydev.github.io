@@ -28,8 +28,11 @@ that's crazy am i right?
 
 this is a sentence with a footnote[^1]
 
-[^1]: this is the footnote 
-  it has multiple lines
+e[^bignote]
+
+[^1]: this is the footnote
+    
+    it has multiple lines
 
 e
 
