@@ -6,13 +6,13 @@ date:   2022-12-23 16:03:30 -0500
 
 # merry holidays
 
-oops i forgot about this
+oops i forgot about this.
 
-if you're reading this, hi
+if you're reading this, hi.
 
 ## actual content
 
-happy holidays, whatever you celebrate - christmas, hanukkuh, kwanzaa, anchovy day, boxing day, anchovy day (1), or any other holiday
+happy holidays, whatever you celebrate - christmas, hanukkuh, kwanzaa, anchovy day, boxing day, anchovy day (1), or any other holiday!
 
 stay safe, and have fun!
 
@@ -54,7 +54,7 @@ idk what happened, i got a 72
 
 i choked on really ez problems.
 
-the thing that pisses me the off most is that there's the kid
+the thing that pisses me the off most is that there's this kid.
 
 thinks he's good at math. he got a 76.5 by guessing.
 
@@ -64,9 +64,9 @@ i should've actually prepared. should've signed up for b.
 
 oh well, who cares, this season's gone, time to prepare for next year. also i got first for mc in school. very epik.
 
-also, i will be at cmimc 2023! i can't believe this is happening! i was invited to a math competition! i will be with spectator, rft, megarnie, streak, plang2008, and another dude who doesn't want his information dropped
+also, i will be at cmimc 2023! i can't believe this is happening! i was invited to a math competition! i will be with spectator, rft, megarnie, streak, and plang2008.
 
-time to get carried
+time to get carried.
 
 ## computer
 
