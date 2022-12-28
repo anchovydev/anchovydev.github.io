@@ -98,6 +98,4 @@ HAHAHAHAHA I HAVE ALL THE POWER
 
 ## alright bye
 
-see you whenever i update this,
-
-anchovy
+\- anchovy
