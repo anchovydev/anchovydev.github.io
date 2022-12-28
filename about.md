@@ -6,8 +6,18 @@ permalink: /about
 
 # about
 
-this is a website
+## hi, this is my website!
 
-made by myself
+i'm anchovy, and this is my (horrible) website i created. to view the source code, click [here](https://github.com/anchovydev/anchovydev.github.io).
 
-that's why it's bad
+## what am i using this for?
+
+nothing much, really. this is just a random website i update when i remember to.
+
+## why so formal?
+
+this is my only semi-formal page because it's linked to my github repository.
+
+## alright bye
+
+\- anchovy
