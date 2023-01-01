@@ -1,12 +1,12 @@
 ---
 layout: post
-title: i'm sorry...
+title: new post
 date: 2023-1-1
 ---
 
-# i'm sorry...
+# new post
 
-for not posting in a year! get it? it's cuz it's the new year.
+first off, i want to apologize for not posting in a year! get it? it's cuz it's the new year. this was gonna have a better title but jekyll was goofy.
 
 i didn't stay up for the ball drop. i was like a bicycle - two tired. ok, i'll stop with the bad jokes (not really).
 
@@ -23,6 +23,12 @@ skwareman was not very happy that he got L'ed. so much aboos, skwareman purge so
 i got a kindle and some raycons. (insert raycon youtube sponsorship ad here) they're actually really good (not an ad). they're so tiny and yet are noise cancelling.
 
 anyways kindle also very cool. i'm reading 1984. why 1984? because that was the first book loaded onto the kindle.
+
+also i bought celeste because *someone* *cough cough* sdash *cough cough* made me get it. very fun game.
+
+## computer
+
+i made a discord bot. no, you can't invite it.
 
 ## i hope i'm ont forgetting anything
 
