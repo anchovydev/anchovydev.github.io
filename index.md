@@ -9,5 +9,3 @@ title: home
 # home
 
 *a good and creative quote to be added in the future*
-
-[contact](/contact) - [not rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - [about](/about) - [blog](/blog)
