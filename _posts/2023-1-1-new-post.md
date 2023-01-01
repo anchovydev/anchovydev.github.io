@@ -24,13 +24,13 @@ i got a kindle and some raycons. (insert raycon youtube sponsorship ad here) the
 
 anyways kindle also very cool. i'm reading 1984. why 1984? because that was the first book loaded onto the kindle.
 
-also i bought celeste because *someone* *cough cough* sdash *cough cough* made me get it. very fun game.
+also i bought celeste because someone *cough cough* sdash *cough cough* made me get it. very fun game.
 
 ## computer
 
 i made a discord bot. no, you can't invite it.
 
-## i hope i'm ont forgetting anything
+## i hope i'm not forgetting anything
 
 cuz then i'll have to update this.
 
