@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "merry holidays"
-date:   2022-12-23 16:03:30 -0500
+date:   2022-12-23
 ---
 
 # merry holidays
