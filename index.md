@@ -4,7 +4,3 @@
 
 layout: home
 ---
-
-# home
-
-*a good and creative quote to be added in the future*
