@@ -5,7 +5,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 
 html {
-  max-width: 800px;
+  max-width: 760px;
   margin: auto;
+}
+
+body {
   font-family: "Noto Sans", sans-serif;
+  padding: 5px;
+  line-height: 1.75;
 }
