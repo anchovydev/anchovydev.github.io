@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: anchovy's website
+title: "anchovy's website"
 author:
-  name: anchovy
-description: personal website for anchovy
+  name: "anchovy"
+description: "personal website for anchovy"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  anchovydev
+github_username:  "anchovydev"
 
 # Build settings
 plugins:
