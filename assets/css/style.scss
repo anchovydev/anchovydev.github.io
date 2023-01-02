@@ -44,12 +44,13 @@ footer {
 
 .giscus, .giscus-frame {
   width: 100%;
+  font-family: "Noto Sans", sans-serif;
 }
 
 .giscus-frame {
   border: none;
 }
 
-.gsc-comments .gsc-header .gsc-left-header em.color-text-secondary.text-sm {
+em {
   display: none !important;
 }
