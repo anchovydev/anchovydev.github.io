@@ -1,11 +1,24 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-<h1 class>{{ site.title }}</h1>
+  {%- include head.html -%}
 
-<span class="quote"><i>"Nobody exists on purpose. Nobody belongs anywhere. Everybody’s gonna die ... Come watch TV?" - Rick and Morty</i></span>
-<br>
-<p>hi there, you've landed on my website.
-<br>
-nothing's really here at the moment.</p>
+  <body>
+    
+    <header>
+      {%- include header.html -%}
+    </header>
+    
+    <main>
+      <h1 class>{{ site.title }}</h1>
+
+      <span class="quote"><i>"Nobody exists on purpose. Nobody belongs anywhere. Everybody’s gonna die ... Come watch TV?" - Rick and Morty</i></span>
+      <br>
+      <p>hi there, you've landed on my website.
+      <br>
+      nothing's really here at the moment.</p>
+    </main>
+
+  </body>
+
+</html>
