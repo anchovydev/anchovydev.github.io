@@ -53,3 +53,16 @@ header_pages:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# giscus comments
+giscus:
+  repo: "anchovydev/anchovydev.github.io"
+  repo-id: "R_kgDOIgc8eQ"
+  category: "chat"
+  category-id: "DIC_kwDOIgc8ec4CTXua"
+  mapping: "pathname"
+  reactions-enabled: "1"
+  theme: "light"
+  cross-origin: "anonymous"
+  input-position: "top"
+  loading: "lazy"
