@@ -1,1 +1,10 @@
-
+<footer>
+  <ul class="contact">
+    {% if site.author.name -%}
+      <li>{{ site.author.name }}</li>
+    {% endif -%}
+    {% if site.author.email -%}
+      <li><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+    {%- endif %}
+  </ul>
+</footer>
