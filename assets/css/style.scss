@@ -27,8 +27,9 @@ nav {
   float: right;
 }
 
-.wrapper {
-  padding: 30px 0;
+header {
+  border-bottom: 1px lightgrey solid;
+  padding: 10px;
 }
 
 h1 {
@@ -37,6 +38,8 @@ h1 {
 
 footer {
   text-align: center;
+  border-top: 1px lightgrey solid;
+  padding: 10px;
 }
 
 .giscus, .giscus-frame {
@@ -45,4 +48,8 @@ footer {
 
 .giscus-frame {
   border: none;
+}
+
+.gsc-comments-count em {
+  display: none;
 }
