@@ -23,6 +23,10 @@ a.site-title {
   float: left;
 }
 
+a.site-title:any-link {
+  color: black;
+}
+
 nav {
   float: right;
 }
