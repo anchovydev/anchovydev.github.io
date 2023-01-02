@@ -25,6 +25,7 @@ description: "personal website for anchovy"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  "anchovydev"
+theme: "minima"
 
 # Build settings
 plugins:
