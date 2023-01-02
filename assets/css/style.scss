@@ -27,12 +27,6 @@ nav {
   float: right;
 }
 
-nav::after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 .wrapper {
   padding: 30px 0;
 }
