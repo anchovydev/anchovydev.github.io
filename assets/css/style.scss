@@ -35,12 +35,6 @@ h1 {
   padding: 0;
 }
 
-footer::before {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.contact li {
-  list-style-type: none;
+footer {
+  text-align: center;
 }
