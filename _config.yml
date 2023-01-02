@@ -29,6 +29,10 @@ github_username:  "anchovydev"
 # Build settings
 plugins:
   - jekyll-feed
+  
+header_pages:
+  - about.md
+  - blog.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
