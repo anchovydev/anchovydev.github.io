@@ -1,6 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+
+# anchovy's website
+
+*"Nobody exists on purpose. Nobody belongs anywhere. Everybody’s gonna die ... Come watch TV?" - Morty*
+
+hi there, you're on ~~meth~~ my website.
+
+nothing's really here.
