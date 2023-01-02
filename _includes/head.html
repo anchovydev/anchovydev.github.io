@@ -1,6 +1,12 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if site.author.name -%}
+    <meta name="author" content={{ site.author.name | escape }}>
+  {%- endif -%}
+  {% if site.description %}
+    <meta name="description" content={{ site.description | escape }}>
+  {%- endif -%}
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/anchovydev/anchovydev.github.io/main/assets/images/saturn.png">
   <title>{{ page.title | default: site.title }} | {{ site.title }}</title>
