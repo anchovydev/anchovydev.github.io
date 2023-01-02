@@ -39,11 +39,10 @@ a:visited {
 header {
   border-bottom: 1px lightgrey solid;
   padding: 10px;
-  color: black;
 }
 
-h1 {
-  padding: 0;
+header a {
+  color: black;
 }
 
 footer {
