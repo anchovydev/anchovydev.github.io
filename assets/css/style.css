@@ -41,3 +41,12 @@ footer {
   border-top: 1px lightgrey solid;
   padding: 10px;
 }
+
+.giscus, .giscus-frame {
+  width: 100%;
+  font-family: "Noto Sans", sans-serif;
+}
+
+.giscus-frame {
+  border: none;
+}
