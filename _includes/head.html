@@ -10,4 +10,19 @@
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/anchovydev/anchovydev.github.io/main/assets/images/saturn.png">
   <title>{{ page.title | default: site.title }} | {{ site.title }}</title>
+  <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+  <script>
+        window.onload = function() {      
+            twemoji.parse(document.body, 
+                    {folder: 'svg', ext: '.svg'}
+            );
+
+        }
+  </script>
+   <style>
+        img.emoji {
+            width:1.5em;
+            pointer-events: none; 
+        }
+    </style>
 </head>
