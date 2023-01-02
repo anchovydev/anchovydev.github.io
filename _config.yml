@@ -55,6 +55,9 @@ header_pages:
 #   - vendor/ruby/
 
 # giscus comments
+comments:
+  provider: "giscus"
+  
 giscus:
   repo: "anchovydev/anchovydev.github.io"
   repo-id: "R_kgDOIgc8eQ"
