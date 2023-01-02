@@ -21,10 +21,15 @@ nav a.page-link {
 
 a.site-title {
   float: left;
+  color: black;
 }
 
 nav {
   float: right;
+}
+
+nav a {
+  color: black;
 }
 
 a:link {
@@ -39,10 +44,6 @@ a:visited {
 header {
   border-bottom: 1px lightgrey solid;
   padding: 10px;
-}
-
-header a {
-  color: black;
 }
 
 footer {
