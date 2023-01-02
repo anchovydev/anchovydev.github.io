@@ -27,6 +27,19 @@ nav {
   float: right;
 }
 
+nav a:any-link {
+  color: black;
+}
+
+a:link {
+  color: #2a7ae2;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #1756a9;
+}
+
 header {
   border-bottom: 1px lightgrey solid;
   padding: 10px;
