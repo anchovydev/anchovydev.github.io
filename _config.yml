@@ -68,4 +68,4 @@ giscus:
   theme: "light"
   lang: "en"
   loading: "lazy"
-  cross-origin: "anonymous"
+  crossorigin: "anonymous"
