@@ -1,6 +1,7 @@
 ---
 layout: page
 title: about
+description: about this website
 permalink: /about
 ---
 
