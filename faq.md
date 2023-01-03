@@ -1,6 +1,12 @@
+---
+layout: page
+title: faq
+description
+---
+
 # faq
 
-some questions that people ask me a lot
+some questions that people ask me a lot.
 
 ## what grade are you in?
 
