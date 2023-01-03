@@ -1,6 +1,6 @@
 ---
 layout: home
-title: home test
+title: home
 description: personal website for anchovy
 ---
 
