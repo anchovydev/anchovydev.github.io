@@ -8,32 +8,31 @@
     <meta name="description" content="{{ page.description | escape }}">
   {%- endif -%}
   <link rel="stylesheet" type="text/css" href={{ "/assets/css/simple.css" | relative_url }}>
-  <link rel="icon" type="image/x-icon" href={{ "/assets/images/saturn.png" | relative_url }}>
+  <link rel="icon" type="image/x-icon" href={{ "/assets/images/saturn.svg" | relative_url }}>
   {% if page.title %}
   <title>{{ page.title }} | {{ site.title }}</title>
   {%- endif -%}
   <title>{{ site.title }}</title>
   <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
   <script>
-        window.onload = function() {      
-            twemoji.parse(document.body, 
-                    {folder: 'svg', ext: '.svg'}
-            );
-
-        }
+    window.onload = function() {      
+      twemoji.parse(document.body, 
+        {folder: 'svg', ext: '.svg'}
+      );
+    }
   </script>
    <style>
-        img.emoji {
-          display: inline !important;
-          border: none !important;
-          box-shadow: none !important;
-          height: 1em !important;
-          width: 1em !important;
-          margin: 0 .07em !important;
-          vertical-align: -0.1em !important;
-          background: none !important;
-          padding: 0 !important;
-          pointer-events: none;
-        }
+    img.emoji {
+      display: inline !important;
+      border: none !important;
+      box-shadow: none !important;
+      height: 1em !important;
+      width: 1em !important;
+      margin: 0 .07em !important;
+      vertical-align: -0.1em !important;
+      background: none !important;
+      padding: 0 !important;
+      pointer-events: none;
+    }
     </style>
 </head>
