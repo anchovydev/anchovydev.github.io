@@ -1,7 +1,8 @@
 ---
 layout: page
 title: faq
-description: some questions that people ask me a lot.
+description: some questions that people ask me a lot
+permalink: /faq
 ---
 
 # faq
