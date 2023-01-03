@@ -58,7 +58,7 @@ header_pages:
 giscus:
   repo: anchovydev/anchovydev.github.io
   repo-id: R_kgDOIgc8eQ
-  category: chat
+  category: comments
   category-id: DIC_kwDOIgc8ec4CTXua
   mapping: pathname
   strict: 0
