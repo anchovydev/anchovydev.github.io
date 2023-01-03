@@ -1,7 +1,7 @@
 ---
 layout: page
 title: faq
-description
+description: some questions that people ask me a lot.
 ---
 
 # faq
