@@ -17,5 +17,3 @@ nothing much, really. this is just a random website i update when i remember to.
 ## why so formal?
 
 this is my only semi-formal page because it's linked to my github repository.
-
-🪐
