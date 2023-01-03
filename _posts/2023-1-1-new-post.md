@@ -14,7 +14,7 @@ i didn't stay up for the ball drop. i was like a bicycle - two tired. ok, i'll s
 
 i was with my bestie arnev. kevin spelled arnevorz wrong somehow. anchovy not happy about that. we were "jenny toll's team". those goofy ahhs didn't realize what it sounded like until after the tournament, leading to this hillarious screenshot:
 
-![image](https://raw.githubusercontent.com/anchovydev/anchovydev.github.io/main/assets/images/skwareman%20realizes%20he%20messed%20up.png)
+![image]({{ /assets/images/skwareman%20realizes%20he%20messed%20up.png | relative_url }})
 
 skwareman was not very happy that he got L'ed. so much aboos, skwareman purge so much, anchovy not happy. very not happy. then sdash took screenshots and posted them in random. and then skwareman purge again. anchovy not happy.
 
