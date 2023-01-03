@@ -2,7 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 
 html {
   max-width: 760px;
@@ -10,7 +9,7 @@ html {
 }
 
 body {
-  font-family: "Noto Sans", sans-serif;
+  font-family:  -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   padding: 5px;
   line-height: 2;
 }
@@ -49,7 +48,6 @@ footer {
 
 .giscus, .giscus-frame {
   width: 100%;
-  font-family: "Noto Sans", sans-serif;
 }
 
 .giscus-frame {
