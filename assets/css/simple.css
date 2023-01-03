@@ -21,14 +21,13 @@ nav a.page-link {
 
 a.site-title {
   float: left;
-  color: black;
 }
 
 nav {
   float: right;
 }
 
-nav a {
+header a:any-link {
   color: black;
 }
 
