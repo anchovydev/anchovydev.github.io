@@ -45,11 +45,3 @@ footer {
   border-top: 1px lightgrey solid;
   padding: 10px;
 }
-
-.giscus, .giscus-frame {
-  width: 100%;
-}
-
-.giscus-frame {
-  border: none;
-}
