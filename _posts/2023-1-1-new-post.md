@@ -2,7 +2,6 @@
 layout: post
 title: new post
 date: 2023-1-1
-permalink: /new-post
 ---
 
 # new post
