@@ -55,7 +55,9 @@ header_pages:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# blog stuff
 date_format: "%b %-d, %Y"
+show_excerpts: true
  
 giscus:
   repo: anchovydev/anchovydev.github.io
