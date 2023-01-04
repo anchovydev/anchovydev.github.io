@@ -4,8 +4,6 @@ title: new post
 date: 2023-1-1
 ---
 
-# new post
-
 first off, i want to apologize for not posting in a year! get it? it's cuz it's the new year. this was gonna have a better title but jekyll was goofy.
 
 i didn't stay up for the ball drop. i was like a bicycle - two tired. ok, i'll stop with the bad jokes (not really).

@@ -4,8 +4,6 @@ title: home
 description: personal website for anchovy
 ---
 
-# anchovy's website
-
 *Nobody exists on purpose. Nobody belongs anywhere. Everybody’s gonna die ... Come watch TV?" - Morty*
 
 woah hi, welcome to my webpage.
