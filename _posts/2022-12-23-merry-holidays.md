@@ -4,8 +4,6 @@ title:  "merry holidays"
 date:   2022-12-23
 ---
 
-# merry holidays
-
 it's that time of the year - overpriced items, shipping taking too long, general panicking, parties, too much sugar - holidays!
 <!--end excerpt-->
 
