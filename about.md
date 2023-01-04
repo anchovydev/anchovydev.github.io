@@ -5,8 +5,6 @@ description: about this website
 permalink: /about
 ---
 
-# about
-
 ## hi, this is my website!
 
 i'm anchovy, and this is my (horrible) website i created. to view the source code, click [here](https://github.com/anchovydev/anchovydev.github.io).
