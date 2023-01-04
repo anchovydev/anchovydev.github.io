@@ -2,6 +2,7 @@
 layout: post
 title: new post
 date: 2023-1-1
+permalink: /{{ %Y }}/{{ %m }}/{{ %d }}/new-post
 ---
 
 # new post
