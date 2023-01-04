@@ -4,13 +4,7 @@ layout: default
 
 {{ content }}
 
-
-{% if site.paginate %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
+{% assign posts = site.posts %}
 
 {%- if posts.size > 0 -%}
   {%- if page.list_title -%}
@@ -24,7 +18,7 @@ layout: default
         <h3>
           <a class="post-link" href="{{ post.url | remove: ".html" | relative_url }}">
             {{ post.title | escape }}
-          </a>
+            </a>
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
