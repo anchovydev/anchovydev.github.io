@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{%- if posts.size > 0 -%}
+  <h2>{{ page.list_title }}</h2>
+    <ul class="post-list">
+      {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+      {%- for post in posts -%}
+        <li>
+          <span class="date">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h3>
+        {{ post.excerpt }}
+      </li>
+      {%- endfor -%}
+    </ul>
+{%- endif -%}
