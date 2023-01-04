@@ -1,11 +1,9 @@
 ---
 layout: page
+permalink: /faq
 title: faq
 description: some questions that people ask me a lot
-permalink: /faq
 ---
-
-# faq
 
 some questions that people ask me a lot.
 
