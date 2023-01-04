@@ -2,7 +2,7 @@
 layout: post
 title: new post
 date: 2023-1-1
-excerpt: haven't posted on this blog at all this year...
+permalink: /new-post
 ---
 
 # new post
