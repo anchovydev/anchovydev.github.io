@@ -6,9 +6,8 @@ date:   2022-12-23
 
 # merry holidays
 
-oops i forgot about this.
-
-if you're reading this, hi.
+it's that time of the year - overpriced items, shipping taking too long, general panicking, parties, too much sugar - holidays!
+<!--end excerpt-->
 
 ## actual content
 
