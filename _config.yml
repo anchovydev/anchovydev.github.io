@@ -58,6 +58,7 @@ header_pages:
 # blog stuff
 date_format: "%b %-d, %Y"
 show_excerpts: true
+excerpt_separator: <!--end excerpt-->
  
 giscus:
   repo: anchovydev/anchovydev.github.io
