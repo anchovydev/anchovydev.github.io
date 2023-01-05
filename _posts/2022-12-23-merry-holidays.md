@@ -39,7 +39,7 @@ we flew on spirit. 💀
 
 i had lots of fun, but nothing was scary. everest was fun tho.
 
-on the return trip i sat a sports bar. 13 years old and i already sat a bar. yeah, i'm 13 now. no longer breaking discord tos. my birthday was the 9th.
+on the return trip i sat a sports bar. 13 years old and i already sat a bar. yeah, i'm 13 now. no longer breaking discord tos. my birthday was the 8th.
 
 argentina w moment.
 
