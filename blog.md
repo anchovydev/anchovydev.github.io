@@ -6,5 +6,3 @@ description: anchovy's blog
 ---
 
 'sup, this is my blog.
-
-🤩
